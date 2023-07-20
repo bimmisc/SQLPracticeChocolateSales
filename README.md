@@ -31,6 +31,6 @@ This practice project was done by referencing (following) a walkthrough video cr
 <h2>SQL Script File</h2>
 
 <p align="center">
-<a href="www.linkedin.com/in/cherylyenchung">
+<a href="">
 <p/><br />
 <br />
