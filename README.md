@@ -31,6 +31,6 @@ This practice project was done by referencing (following) a walkthrough video cr
 <h2>SQL Script File</h2>
 
 <p align="center">
-[SQLChocolateSalesbyChandoo](https://github.com/bimmisc/SQLPracticeChocolateSales/blob/a666a9708dc0873fafe57188b3efecd880cf010b/SQL%20Chocolate%20by%20Chandoo%20Video.sql)https://github.com/bimmisc/SQLPracticeChocolateSales/blob/a666a9708dc0873fafe57188b3efecd880cf010b/SQL%20Chocolate%20by%20Chandoo%20Video.sql)
+[SQL Script](SQL Chocolate by Chandoo Video.sql)
 <p/><br />
 <br />
