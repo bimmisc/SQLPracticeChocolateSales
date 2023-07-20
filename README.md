@@ -29,8 +29,6 @@ This practice project was done by referencing (following) a walkthrough video cr
 <br />
 
 <h2>SQL Script File</h2>
+<a href="SQL Chocolate by Chandoo Video.sql">SQL Script for on Chocolate Sales (Project Demo'ed by Chandoo)
 
-<p align="center">
-<a href="SQL Chocolate by Chandoo Video.sql">SQL Script
-<p/><br />
 <br />
