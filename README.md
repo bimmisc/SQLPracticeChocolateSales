@@ -25,7 +25,7 @@ This practice project was done by referencing (following) a walkthrough video cr
 
 <h2>Brief Description</h2>
 
-<b> 1) Some of the queries used in this project are listed above and detailed in the SQL file. <br/>
+<b> 1) Some of the queries used in this project are listed above and detailed in the SQL file below. <br/>
 <br />
 
 <h2>SQL Script File</h2>
