@@ -31,6 +31,6 @@ This practice project was done by referencing (following) a walkthrough video cr
 <h2>SQL Script File</h2>
 
 <p align="center">
-<a href="">
+<a href="SQL Chocolate by Chandoo Video.sql">SQL Script
 <p/><br />
 <br />
