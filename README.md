@@ -31,6 +31,6 @@ This practice project was done by referencing (following) a walkthrough video cr
 <h2>SQL Script File</h2>
 
 <p align="center">
-<img src="CoffeeSalesDashboard.png" height="80%" width="80%" alt="Dashboard"/>
+<img src="SQL Chocolate by Chandoo Video.sql" height="80%" width="80%" alt="SQLChocolatebyChandoo"/>
 <p/><br />
 <br />
